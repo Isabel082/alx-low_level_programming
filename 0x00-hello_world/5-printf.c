@@ -1,11 +1,10 @@
 #include<stdio.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - A program that print a aline using printf function
+ * Return: 0 (Success)
  */
 int main(void)
 {
-	prinf("with proper gramma, but the outcome is a piece of art,\n")
-		return (0);
+prinf("with proper gramma, but the outcome is a piece of art,\n")
+return (0);
 }
